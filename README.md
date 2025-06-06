@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [IBOT, an Image generating Chatbot](https://kirthick27.github.io/ibot.github.io/)
 
-- 🌱 I’m currently learning **Full stack development and Machine learning**
+- 🌱 I’m currently learning **Front end development and Machine learning**
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **Front end**
 
 - 📫 How to reach me **rithik99cool@gmail.com**
 
